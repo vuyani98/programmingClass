@@ -36,7 +36,7 @@ redditComment2 = {
     "edited" : True, 
     "subreddit" : "JavaScript", 
     "score" : 100,
-    "author" : "Glady", 
+    "author" : "Gladys", 
     "comment" : "This is a great post too"
 }
 
