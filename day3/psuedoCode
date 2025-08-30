@@ -1,0 +1,67 @@
+Algorithms, Programatic thinking and iteration
+-clear
+-finite
+-efficient
+
+
+## Algorithm for finding largest number in list
+
+listD = [2, 4, 1, 0 , 230, 10, 15]
+
+1. Start with the 1st number in list
+
+2. Set max_num to first number in list
+
+3. Compare each number to max_num
+
+4. If number is bigger, update max_num
+
+5. Print max_num
+
+6. End
+
+
+
+## Algorithm for assigning class marks in a list of dictionaries
+
+1. Start
+
+2. Check the first student's mark
+
+3. If the mark is equal to or above 50%
+        Set the grade key's value to 'pass'
+    
+    Else 
+        set the grade to 'fail'
+
+
+4. Repeat for every item in list until the end of list
+
+5. Print the number of people who passed and those who failed
+
+6. End
+
+
+#class dict 
+[
+    {
+        "name" : "Matthew",
+        "percentage" : 50
+        "grade" : ""
+    },
+    {
+        "name" : "Mark",
+        "percentage" : 30
+        "grade" : ""
+    },
+        {
+        "name" : "Luke",
+        "percentage" : 70
+        "grade" : ""
+    },
+    {
+        "name" : "John",
+        "percentage" : 43
+        "grade" : ""
+    },
+]
