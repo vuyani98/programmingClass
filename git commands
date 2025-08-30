@@ -1,0 +1,19 @@
+git init  //which initializes a folder/repo
+
+git remote add  "address of repo" 
+
+git remote -v  //checking the version of the remote
+
+git checkout -b main //here im creating a new branch called main
+
+git checkout main //switching to the main branch
+
+git add .  //adding all the files to be committed
+
+git commit -m "message"  //committing the changes with a message
+
+git push origin main  //pushing the changes to the remote repo where origin is the name of the remote and main is the branch name
+
+git pull origin main  //pulling the changes from the remote repo to the local repo
+
+git status  //checking the status of the repo
